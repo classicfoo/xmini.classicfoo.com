@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XMini</string>
+    <string name="x_client_id" translatable="false"></string>
+    <string name="oauth_redirect_uri" translatable="false">xmini://oauth/callback</string>
+</resources>
